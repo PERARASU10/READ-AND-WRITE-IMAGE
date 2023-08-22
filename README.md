@@ -19,8 +19,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: PERARASU M
+### Register Number: 212222100033
 i) #To Read,display the image
 ```
   import cv2
@@ -76,26 +76,35 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-![Uploading image.png…]()
+![image](https://github.com/PERARASU10/READ-AND-WRITE-IMAGE/assets/118348589/e26aec2b-9717-443c-9d12-2c8da547243b)
 
 <br>
 
 ### ii)Write the image
 
 <br>
+![image](https://github.com/PERARASU10/READ-AND-WRITE-IMAGE/assets/118348589/da3fdd60-d1e6-4a56-bc7d-0d1f6ca6f027)
+
+
 <br>
 
 ### iii)Shape of the Image
 
 <br>
+![image](https://github.com/PERARASU10/READ-AND-WRITE-IMAGE/assets/118348589/2e122cef-374e-417f-a81b-8a91e6487f7a)
+
 <br>
 
 ### iv)Access rows and columns
 <br>
+![image](https://github.com/PERARASU10/READ-AND-WRITE-IMAGE/assets/118348589/011684e1-eae7-4236-8b1c-7774fc4edc11)
+
 <br>
 
 ### v)Cut and paste portion of image
 <br>
+![image](https://github.com/PERARASU10/READ-AND-WRITE-IMAGE/assets/118348589/8d34d286-000a-484e-8c59-e4e581a1bd9f)
+
 <br>
 
 ## Result:
